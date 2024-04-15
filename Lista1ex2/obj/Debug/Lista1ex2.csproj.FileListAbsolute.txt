@@ -1,0 +1,7 @@
+C:\Users\Chizuru\Desktop\documentos Felipe\etec trabalhos\TCC\IFSP\Programação\Lista1ex1\Lista1ex2\bin\Debug\Lista1ex2.exe.config
+C:\Users\Chizuru\Desktop\documentos Felipe\etec trabalhos\TCC\IFSP\Programação\Lista1ex1\Lista1ex2\bin\Debug\Lista1ex2.exe
+C:\Users\Chizuru\Desktop\documentos Felipe\etec trabalhos\TCC\IFSP\Programação\Lista1ex1\Lista1ex2\bin\Debug\Lista1ex2.pdb
+C:\Users\Chizuru\Desktop\documentos Felipe\etec trabalhos\TCC\IFSP\Programação\Lista1ex1\Lista1ex2\obj\Debug\Lista1ex2.csproj.AssemblyReference.cache
+C:\Users\Chizuru\Desktop\documentos Felipe\etec trabalhos\TCC\IFSP\Programação\Lista1ex1\Lista1ex2\obj\Debug\Lista1ex2.csproj.CoreCompileInputs.cache
+C:\Users\Chizuru\Desktop\documentos Felipe\etec trabalhos\TCC\IFSP\Programação\Lista1ex1\Lista1ex2\obj\Debug\Lista1ex2.exe
+C:\Users\Chizuru\Desktop\documentos Felipe\etec trabalhos\TCC\IFSP\Programação\Lista1ex1\Lista1ex2\obj\Debug\Lista1ex2.pdb
